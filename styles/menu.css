@@ -1,3 +1,4 @@
-.main link{
-  color: blueviolet
+.nav a{
+  color: red;
+  list-style-type: none;
 }
