@@ -1,5 +1,5 @@
 import Link from "next/link";
-
+import "../pages/_app.js";
 const Menu = () => {
   return (
     <main>

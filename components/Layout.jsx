@@ -1,5 +1,6 @@
 import Head from "next/head";
 import Menu from "./Menu";
+import "../pages/_app.js";
 
 const Layout = ({ children }) => {
   return (
