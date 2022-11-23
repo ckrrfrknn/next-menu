@@ -1,3 +1,9 @@
 body {
- background-color: blue;
+ background-color: black;
+}
+h1{
+  color: red;
+}
+.nav a{
+  color: blue;
 }
